@@ -3,5 +3,7 @@
 
 [Копей В. Б. Методичні вказівки до виконання курсової роботи з дисципліни "Основи програмування"](https://github.com/vkopey/OP/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F%20%D0%9A%D0%A0.pdf). Івано-Франківськ : ІФНТУНГ, 2018. 28 с.
 
+[Завдання на КР](https://github.com/vkopey/OP/blob/main/%D0%97%D0%B0%D0%B2%D0%B4%D0%B0%D0%BD%D0%BD%D1%8F%D0%9A%D0%A0.pdf)
+
 [Приклад програми в Delphi 7 для дослідження функції (Відеоурок)](https://youtu.be/sUjXbHPMjIk)
 
